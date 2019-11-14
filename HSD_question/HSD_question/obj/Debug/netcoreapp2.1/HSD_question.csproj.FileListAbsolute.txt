@@ -1,0 +1,11 @@
+E:\Code\Projects\HSD_Question\HSD_Question\HSD_question\HSD_question\obj\Debug\netcoreapp2.1\HSD_question.csprojAssemblyReference.cache
+E:\Code\Projects\HSD_Question\HSD_Question\HSD_question\HSD_question\obj\Debug\netcoreapp2.1\HSD_question.csproj.CoreCompileInputs.cache
+E:\Code\Projects\HSD_Question\HSD_Question\HSD_question\HSD_question\obj\Debug\netcoreapp2.1\HSD_question.AssemblyInfoInputs.cache
+E:\Code\Projects\HSD_Question\HSD_Question\HSD_question\HSD_question\obj\Debug\netcoreapp2.1\HSD_question.AssemblyInfo.cs
+E:\Code\Projects\HSD_Question\HSD_Question\HSD_question\HSD_question\bin\Debug\netcoreapp2.1\HSD_question.deps.json
+E:\Code\Projects\HSD_Question\HSD_Question\HSD_question\HSD_question\bin\Debug\netcoreapp2.1\HSD_question.runtimeconfig.json
+E:\Code\Projects\HSD_Question\HSD_Question\HSD_question\HSD_question\bin\Debug\netcoreapp2.1\HSD_question.runtimeconfig.dev.json
+E:\Code\Projects\HSD_Question\HSD_Question\HSD_question\HSD_question\bin\Debug\netcoreapp2.1\HSD_question.dll
+E:\Code\Projects\HSD_Question\HSD_Question\HSD_question\HSD_question\bin\Debug\netcoreapp2.1\HSD_question.pdb
+E:\Code\Projects\HSD_Question\HSD_Question\HSD_question\HSD_question\obj\Debug\netcoreapp2.1\HSD_question.dll
+E:\Code\Projects\HSD_Question\HSD_Question\HSD_question\HSD_question\obj\Debug\netcoreapp2.1\HSD_question.pdb
