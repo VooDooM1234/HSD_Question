@@ -9,3 +9,14 @@ E:\Code\Projects\HSD_Question\HSD_Question\HSD_question\HSD_question\bin\Debug\n
 E:\Code\Projects\HSD_Question\HSD_Question\HSD_question\HSD_question\bin\Debug\netcoreapp2.1\HSD_question.pdb
 E:\Code\Projects\HSD_Question\HSD_Question\HSD_question\HSD_question\obj\Debug\netcoreapp2.1\HSD_question.dll
 E:\Code\Projects\HSD_Question\HSD_Question\HSD_question\HSD_question\obj\Debug\netcoreapp2.1\HSD_question.pdb
+C:\Users\haydenb\Documents\GitHub\TrajanGVS\.git\HSD_Question\HSD_question\HSD_question\bin\Debug\netcoreapp2.1\HSD_question.deps.json
+C:\Users\haydenb\Documents\GitHub\TrajanGVS\.git\HSD_Question\HSD_question\HSD_question\bin\Debug\netcoreapp2.1\HSD_question.runtimeconfig.json
+C:\Users\haydenb\Documents\GitHub\TrajanGVS\.git\HSD_Question\HSD_question\HSD_question\bin\Debug\netcoreapp2.1\HSD_question.runtimeconfig.dev.json
+C:\Users\haydenb\Documents\GitHub\TrajanGVS\.git\HSD_Question\HSD_question\HSD_question\bin\Debug\netcoreapp2.1\HSD_question.dll
+C:\Users\haydenb\Documents\GitHub\TrajanGVS\.git\HSD_Question\HSD_question\HSD_question\bin\Debug\netcoreapp2.1\HSD_question.pdb
+C:\Users\haydenb\Documents\GitHub\TrajanGVS\.git\HSD_Question\HSD_question\HSD_question\obj\Debug\netcoreapp2.1\HSD_question.csprojAssemblyReference.cache
+C:\Users\haydenb\Documents\GitHub\TrajanGVS\.git\HSD_Question\HSD_question\HSD_question\obj\Debug\netcoreapp2.1\HSD_question.csproj.CoreCompileInputs.cache
+C:\Users\haydenb\Documents\GitHub\TrajanGVS\.git\HSD_Question\HSD_question\HSD_question\obj\Debug\netcoreapp2.1\HSD_question.AssemblyInfoInputs.cache
+C:\Users\haydenb\Documents\GitHub\TrajanGVS\.git\HSD_Question\HSD_question\HSD_question\obj\Debug\netcoreapp2.1\HSD_question.AssemblyInfo.cs
+C:\Users\haydenb\Documents\GitHub\TrajanGVS\.git\HSD_Question\HSD_question\HSD_question\obj\Debug\netcoreapp2.1\HSD_question.dll
+C:\Users\haydenb\Documents\GitHub\TrajanGVS\.git\HSD_Question\HSD_question\HSD_question\obj\Debug\netcoreapp2.1\HSD_question.pdb

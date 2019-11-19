@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Hayden\\.nuget\\packages\\": {},
+    "C:\\Users\\haydenb\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Code\\Projects\\HSD_Question\\HSD_Question\\HSD_question\\HSD_question\\HSD_question.csproj",
+      "projectUniqueName": "C:\\Users\\haydenb\\Documents\\GitHub\\TrajanGVS\\.git\\HSD_Question\\HSD_question\\HSD_question\\HSD_question.csproj",
       "projectName": "HSD_question",
-      "projectPath": "E:\\Code\\Projects\\HSD_Question\\HSD_Question\\HSD_question\\HSD_question\\HSD_question.csproj",
-      "packagesPath": "C:\\Users\\Hayden\\.nuget\\packages\\",
-      "outputPath": "E:\\Code\\Projects\\HSD_Question\\HSD_Question\\HSD_question\\HSD_question\\obj\\",
+      "projectPath": "C:\\Users\\haydenb\\Documents\\GitHub\\TrajanGVS\\.git\\HSD_Question\\HSD_question\\HSD_question\\HSD_question.csproj",
+      "packagesPath": "C:\\Users\\haydenb\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\haydenb\\Documents\\GitHub\\TrajanGVS\\.git\\HSD_Question\\HSD_question\\HSD_question\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Hayden\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\haydenb\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
