@@ -29,7 +29,7 @@ namespace HSD_question
         {
             // matrix co-ord
            int val = 289326;
-           //int val = 25;
+           //int val = 24;
             
             //Calcualte number of rings in spiral in order to determine basic distance from the centre to location of input val. This essential gives on of the two coords for the location of number.
             // Sqrt of any number in ring rounded up = the ring number, with bottom right number of each ring being the perfect square of each ring.
@@ -73,7 +73,7 @@ namespace HSD_question
              *    ANSWER = 419
              */
 
-            //FORMULA: https://imgur.com/x6itOEf
+            //FORMULA: https://imgur.com/x6itOEf, http://oeis.org/A214526
             int manhattanSolutionTwo = n_ring + Math.Abs(((val-1) % (2*n_ring))-n_ring); 
          
             Console.WriteLine("Manhattan Distance Solution One = {0}", manhattanSolutionOne); 
